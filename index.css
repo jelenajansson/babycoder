@@ -3,6 +3,9 @@
     text-align: center;
   }
    
+  body {
+    margin-bottom: 60px;
+  }
    
   h1 {
     color: SeaGreen;
